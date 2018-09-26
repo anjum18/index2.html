@@ -1,0 +1,59 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+    border-style: solid;
+    border-width: 5px;
+    border-color: purple;
+    text-align: center;
+    font-size: 160%
+}
+tr 
+{
+    color: blue;
+    border-style: solid;
+    border-width: 5px;
+    border-color: purple;
+    text-align: left;
+    font-size: 160%
+}
+
+
+
+
+
+
+
+p  {
+    
+    color:black; 
+    text-align: center;
+    font-family: courier;
+    font-size: 160%;
+    background: #f73030;
+}
+
+div {
+    height: 500%;
+    width: auto;
+    background-color: #f73030;
+    text-align: center;
+    font-size: 400%;
+} 
+img {
+    padding-top: 40px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    padding-left: 250px;
+    border-radius: 50%;
+    border-image-width: 200%;
+}
+footer {
+    
+    font-size: 200%;
+    text-align: center;
+    color: blue;
+    
+
+}    
