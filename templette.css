@@ -1,0 +1,171 @@
+*body.html{
+    padding: 0;
+    margin: 0;
+
+}
+#{
+    text-decoration-style: none;
+}
+a.hover {
+    text-decoration: none;
+}
+body{
+    font: 15px/1.5 arial ;
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+/******header*****/
+
+
+header{
+    background: #444444;
+    color: aqua;
+    padding-top: 30px;
+    min-height: 70px;
+   height: 70px;        
+    border: 
+    }
+/******banner*****/
+.logo{
+    color: ;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    float:left;
+}
+/******menu*****/
+.menu{
+    float:right;
+}
+#menu .nav-link {
+     
+    color:rgb(248, 248, 248) !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    background-color:#049e91;
+
+    } 
+    header a{
+     
+        color:red;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 16px;
+        }
+        header ul{
+     margin:0;
+     padding: 0;
+      }
+    
+    header li{
+        display: inline;
+        float: left;
+        padding: 0 20px 0 20px;
+    }
+header #branding {
+    float: left;
+    
+}
+header #branding h1 {
+    margin: 0;
+    
+}
+header nav {
+float: right;
+margin-top: 10px;
+
+}
+header.highligt,header.current a{
+    color: antiquewhite;
+    font-weight: bold;
+}
+header a:hover{
+
+color: #444444;
+font-weight: bold;
+}
+#showcase{
+    min-height: 400px;
+background: url('...img.jpg') no-repeat 0 -400px;
+text-align: center;
+color: #444444;
+}
+#showcase h1{
+    margin-top: 100px;
+font-size: 55px;
+margin-bottom: 10px;
+}
+#showcase p{
+font-size: 20px;
+
+}
+#newsletter{
+padding: 15px;
+color: #444444;
+background: #444444;
+
+}
+#boxes {
+    margin-top: 20px;
+}
+#boxes .box {
+   float: 
+   text-align:center;
+   width: 30%;
+   padding:10px;
+
+}
+#boxes .box img{
+width: 90px;
+}
+aside#sidebar{
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    color: aqua;
+    background-color:coral;
+    text-align: center;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+  }
+  .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #05aa9c;
+    border-radius: .3rem;
+}
+h1{
+    text-align: center;
+}
+#cover {
+    /* max-width: 100%; */
+    /* height: 100px;
+    width: cover;
+    background-size: 100%; */
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+}
